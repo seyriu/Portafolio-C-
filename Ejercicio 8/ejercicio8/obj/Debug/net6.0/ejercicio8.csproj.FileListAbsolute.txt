@@ -1,0 +1,60 @@
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.exe
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.deps.json
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.runtimeconfig.json
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.dll
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.pdb
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.csproj.AssemblyReference.cache
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.AssemblyInfoInputs.cache
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.AssemblyInfo.cs
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.dll
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\refint\ejercicio8.dll
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.pdb
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.genruntimeconfig.cache
+C:\Users\Angelica\Desktop\pruebaNacionalFranciscoGonzalez\ejercicio8\ejercicio8\obj\Debug\net6.0\ref\ejercicio8.dll
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.exe
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.deps.json
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.runtimeconfig.json
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.dll
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.pdb
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.csproj.AssemblyReference.cache
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.AssemblyInfoInputs.cache
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.AssemblyInfo.cs
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.dll
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\refint\ejercicio8.dll
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.pdb
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.genruntimeconfig.cache
+C:\Users\Angelica\Desktop\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ref\ejercicio8.dll
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.exe
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.deps.json
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.runtimeconfig.json
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.dll
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\bin\Debug\net6.0\ejercicio8.pdb
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.csproj.AssemblyReference.cache
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.AssemblyInfoInputs.cache
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.AssemblyInfo.cs
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.dll
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\refint\ejercicio8.dll
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.pdb
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ejercicio8.genruntimeconfig.cache
+C:\Users\telmo\source\repos\portafolioC#\ejercicio8\ejercicio8\obj\Debug\net6.0\ref\ejercicio8.dll
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\bin\Debug\net6.0\ejercicio8.exe
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\bin\Debug\net6.0\ejercicio8.deps.json
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\bin\Debug\net6.0\ejercicio8.runtimeconfig.json
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\bin\Debug\net6.0\ejercicio8.dll
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\bin\Debug\net6.0\ejercicio8.pdb
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ejercicio8.csproj.AssemblyReference.cache
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ejercicio8.AssemblyInfoInputs.cache
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ejercicio8.AssemblyInfo.cs
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ejercicio8.dll
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\refint\ejercicio8.dll
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ejercicio8.pdb
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ejercicio8.genruntimeconfig.cache
+C:\Users\telmo\Desktop\Portafolio\Ejercicio 8\ejercicio8\obj\Debug\net6.0\ref\ejercicio8.dll
